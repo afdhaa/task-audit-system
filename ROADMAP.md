@@ -56,8 +56,8 @@
 - [x] Add database demo seeder (`prisma/seed.ts`) to populate initial sample tasks across all statuses (`to_do`, `pending`, `in_progress`, `done`) with realistic audit logs so that from the user's POV, the app is not completely empty on first launch
 - [x] Answer required questions in README (audit immutability, high concurrency risks, first refactor, AI usage)
 - [x] Final cleanup
-- [ ] Push public GitHub repository
-- [ ] Send submission confirmation
+- [x] Push public GitHub repository
+- [x] Send submission confirmation
 
 ## Optional Later Improvements
 Only after assessment requirements are complete:
